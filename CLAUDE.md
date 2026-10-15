@@ -21,3 +21,6 @@ Never let a section heading or an item match or beat the level above it. Check t
 - Bottom nav: floating capsule, hides on scroll down, returns on scroll up.
 - The "what do you feel like doing" input stays fixed above the nav.
 - Home banners: one banner visible at a time, filled with design-system illustrations, dots below.
+
+## Buttons
+- CTAs must be plainly readable: straight horizontal text, 14-15px bold. No curved or rotating text on buttons.
